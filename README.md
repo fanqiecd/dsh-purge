@@ -29,6 +29,8 @@
   <a href="README.md">English</a> | <a href="README.zh-CN.md">中文</a>
 </p>
 
+> **This is a fork for secondary development.** Upstream: **[YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)** by **YuJunZhiXue**. The name, ideas, code, and prompts all come from upstream and remain under its [attribution requirement](https://github.com/YuJunZhiXue/dsh-purge#attribution-required) and non-profit terms. Fork maintainer: **fanqiecd**. See [NOTICE.md](NOTICE.md) for exactly what this fork changed.
+
 > **Updates paused.** The author has no steady income for now because of work. Maintenance is on hold: no new releases, issues / PRs are not taken, and new dsh versions are not guaranteed. The repo stays usable; see Sponsor below. When maintenance resumes, this README will say so.
 
 > **Official Web and the official desktop app are both supported.** Official `dsh web` uses profile `web`. The official desktop EXE (DeepSeek Harness **0.2.0-rc.2**) uses profile `desktop`. Install and Apply them separately. This release targets dsh 0.2 only. Older dsh builds need the matching older plugin. Community Desktop is not maintained.
